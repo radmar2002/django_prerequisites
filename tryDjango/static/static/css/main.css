@@ -1,0 +1,7 @@
+.btn-primary {
+background-image: linear-gradient(to bottom, #60B733 0px, #882650 100%);
+}
+
+.navbar-inverse .navbar-brand {
+    color: #DA0C0C;
+}
